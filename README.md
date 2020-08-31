@@ -47,11 +47,11 @@ A responsive to-do list built with JavaScript and Sass
 
 ## Social / Contact
 
-![Dev Logo](https://res.cloudinary.com/cjcon90/image/upload/v1598914894/github_readme/dev_ieciqz.png)**[Dev.to](https://dev.to/cjcon90)**
+![Dev Logo](https://res.cloudinary.com/cjcon90/image/upload/v1598914894/github_readme/dev_ieciqz.png)		**[Dev.to](https://dev.to/cjcon90)**
 
-![Twitter Logo](https://res.cloudinary.com/cjcon90/image/upload/v1598914894/github_readme/twitter_gmbzoo.png)**[Twitter](https://twitter.com/cjcon90)**
+![Twitter Logo](https://res.cloudinary.com/cjcon90/image/upload/v1598914894/github_readme/twitter_gmbzoo.png)        **[Twitter](https://twitter.com/cjcon90)**
 
-![Email icon](https://res.cloudinary.com/cjcon90/image/upload/v1598914894/github_readme/email_sctosf.png)**[cjcon90@pm.me](mailto:cjcon90@pm.me)**
+![Email icon](https://res.cloudinary.com/cjcon90/image/upload/v1598914894/github_readme/email_sctosf.png)		**[cjcon90@pm.me](mailto:cjcon90@pm.me)**
 
 
 
