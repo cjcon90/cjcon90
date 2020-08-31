@@ -1,10 +1,10 @@
 ![CJCON90](https://res.cloudinary.com/cjcon90/image/upload/v1598902655/github_readme/github_cover_ai5g6d.png)
 
-# Welcome 👋
+# Welcome :wave:
 
-Hi, I'm Ciaran (sounds like 'keearan').
+Hi, I'm Ciaran (sounds like 'keearan')
 
-I'm a professionally qualified child protection social worker, with a lifelong interest for technology. In April 2020 I wrote my first HTML `Hello World` and since then I have been self-teaching to try and turn this new found passion into a career! I'm eager to build my network and find new opportunities where I can learn more about the wonderful mix of logic and creativity that is web/software development.
+I'm a professionally qualified child protection social worker, with a lifelong passion for technology. In April 2020 I wrote my first HTML `Hello World` and since then I have been self-teaching outside of my regular 9-5 to try and turn this new found passion into a career! I'm eager to build my network and find new opportunities where I can, to learn more about the wonderful mix of logic and creativity that is web/software development  :computer:
 
 ## Skills
 
@@ -19,6 +19,40 @@ I'm a professionally qualified child protection social worker, with a lifelong i
             <td><img src="https://res.cloudinary.com/cjcon90/image/upload/v1598903862/github_readme/sass_nkffqh.png" alt="Sass Logo" /></td>
          </tr>
       </table>
+
+
+
+## Projects
+
+#### Vue Quiz App
+
+A simple quiz app built with Vue.js and using the opentdb.com quiz API
+
+[Repo](https://github.com/cjcon90/vue-quiz-app) | [Live](https://cjcon90.github.io/vue-quiz-app/)
+
+#### Quote Machine
+
+A random quote generator built using Vue.js
+
+[Repo](https://github.com/cjcon90/quote-machine-vuejs) | [Live](https://cjcon90.github.io/quote-machine-vuejs/)
+
+
+#### Vanilla JS to-do list
+
+A responsive to-do list built with JavaScript and Sass
+
+[Repo](https://github.com/cjcon90/vanillaJS_todo_list) | [Live](https://cjcon90.github.io/vanillaJS_todo_list/)
+
+
+
+## Social / Contact
+
+![Dev Logo](https://res.cloudinary.com/cjcon90/image/upload/v1598914894/github_readme/dev_ieciqz.png)**[Dev.to](https://dev.to/cjcon90)**
+
+![Twitter Logo](https://res.cloudinary.com/cjcon90/image/upload/v1598914894/github_readme/twitter_gmbzoo.png)**[Twitter](https://twitter.com/cjcon90)**
+
+![Email icon](https://res.cloudinary.com/cjcon90/image/upload/v1598914894/github_readme/email_sctosf.png)**[cjcon90@pm.me](mailto:cjcon90@pm.me)**
+
 
 
 
