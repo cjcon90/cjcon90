@@ -24,6 +24,12 @@ I'm a professionally qualified child protection social worker, with a lifelong p
 
 ## Projects
 
+#### Country Data Viewer
+
+A data table app showing key information about any country, built using Vue.js and Vuetify
+
+[Repo](https://github.com/cjcon90/country-data-viewer) | [Live](https://cjcon90.github.io/country-data-viewer/)
+
 #### Vue Quiz App
 
 A simple quiz app built with Vue.js and using the opentdb.com quiz API
