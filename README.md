@@ -26,7 +26,7 @@ I'm a professionally qualified child protection social worker, with a lifelong p
 
 #### Country Data Viewer
 
-A data table app showing key information about any country, built using Vue.js and Vuetify
+A searchable and responsive data table app showing key information about any country, built using Vue.js and Vuetify
 
 [Repo](https://github.com/cjcon90/country-data-viewer) | [Live](https://cjcon90.github.io/country-data-viewer/)
 
