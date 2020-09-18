@@ -24,6 +24,12 @@ I'm a professionally qualified child protection social worker, with a lifelong p
 
 ## Projects
 
+### Personal Portfolio Site
+
+A single-page website deployed at [www.cjcon90.dev](https://cjcon90.dev) to display my information, skills & projects - built using Sass.
+
+[Repo](https://github.com/cjcon90/personal-portfolio-cjcon90) | [Live](https://cjcon90.dev)
+
 #### Country Data Viewer
 
 A searchable and responsive data table app showing key information about any country, built using Vue.js and Vuetify
