@@ -1,4 +1,4 @@
-![CJCON90](https://res.cloudinary.com/cjcon90/image/upload/v1598902655/github_readme/github_cover_ai5g6d.png)
+![CJCON90](https://res.cloudinary.com/cjcon90/image/upload/v1614620229/github_readme/cjcon90_Logo.png)
 
 # Welcome :wave:
 
