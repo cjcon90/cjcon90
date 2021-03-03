@@ -1,86 +1,21 @@
-![CJCON90](https://res.cloudinary.com/cjcon90/image/upload/v1614620521/github_readme/cjcon90_Logo.png)
+### Hi there 👋, my name is Ciaran
+![](https://res.cloudinary.com/cjcon90/image/upload/v1614620521/github_readme/cjcon90_Logo.png)
 
-# Welcome :wave:
+I am a full-stack developer (JavaScript/Python) with a background in child protection social work.
 
-Hi, I'm Ciaran (sounds like 'keearan')
+Skills: HTML / CSS / JS / Python / Flask / TailwindCSS / Sass
 
-I'm a professionally qualified child protection social worker, with a lifelong passion for technology. In April 2020 I wrote my first HTML `Hello World` and since then I have been self-teaching outside of my regular 9-5 to try and turn this new found passion into a career! I'm eager to build my network and find new opportunities where I can, to learn more about the wonderful mix of logic and creativity that is web/software development  :computer:
+- 🔭 I’m currently working on Hot Dogz  - A full-stack dog photo sharing app built with Flask and TailwindCSS 
+- 🌱 I’m currently learning All things back-end Python! Flask, MongoDB, Django, SQL 
+- 💬 Ask me about My career switching experience! 
+- 📫 How to reach me: email at cjcon90@pm.me, or check out my portfolio at https://cjcon90/dev! 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I wrote my first 'Hello World' in April 2020 (and never looked back!) 
 
-## Skills
+<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<table width="500px" style="text-align: center">
-         <tr>
-            <td><img src="https://res.cloudinary.com/cjcon90/image/upload/v1598903862/github_readme/html_bslgow.png" alt="HTML logo" /></td>
-            <td><img src="https://res.cloudinary.com/cjcon90/image/upload/v1598903862/github_readme/css_nijmid.png" alt="CSS logo" /></td>
-            <td><img src="https://res.cloudinary.com/cjcon90/image/upload/v1598903862/github_readme/js_lurznj.png" alt="JavaScript logo" /></td>
-         </tr>
-         <tr>
-            <td><img src="https://res.cloudinary.com/cjcon90/image/upload/v1598904554/github_readme/vue_qykigh.png" alt="Vue JS Logo" /></td>
-            <td><img src="https://res.cloudinary.com/cjcon90/image/upload/v1598903862/github_readme/sass_nkffqh.png" alt="Sass Logo" /></td>
-         </tr>
-      </table>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cjcon90&show_icons=true&count_private=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cjcon90)  
 
-
-## Projects
-
-#### Personal Portfolio Site
-
-A single-page website deployed at [www.cjcon90.dev](https://cjcon90.dev) to display my information, skills & projects - built using Sass.
-
-[Repo](https://github.com/cjcon90/personal-portfolio-cjcon90) | [Live](https://cjcon90.dev)
-
-#### Country Data Viewer
-
-A searchable and responsive data table app showing key information about any country, built using Vue.js and Vuetify
-
-[Repo](https://github.com/cjcon90/country-data-viewer) | [Live](https://cjcon90.github.io/country-data-viewer/)
-
-#### Vue Quiz App
-
-A simple quiz app built with Vue.js and using the opentdb.com quiz API
-
-[Repo](https://github.com/cjcon90/vue-quiz-app) | [Live](https://cjcon90.github.io/vue-quiz-app/)
-
-#### Quote Machine
-
-A random quote generator built using Vue.js
-
-[Repo](https://github.com/cjcon90/quote-machine-vuejs) | [Live](https://cjcon90.github.io/quote-machine-vuejs/)
-
-
-#### Vanilla JS to-do list
-
-A responsive to-do list built with JavaScript and Sass
-
-[Repo](https://github.com/cjcon90/vanillaJS_todo_list) | [Live](https://cjcon90.github.io/vanillaJS_todo_list/)
-
-
-
-## Social / Contact
-
-![Dev Logo](https://res.cloudinary.com/cjcon90/image/upload/v1598914894/github_readme/dev_ieciqz.png)		**[Dev.to](https://dev.to/cjcon90)**
-
-![Twitter Logo](https://res.cloudinary.com/cjcon90/image/upload/v1598914894/github_readme/twitter_gmbzoo.png)        **[Twitter](https://twitter.com/cjcon90)**
-
-![Email icon](https://res.cloudinary.com/cjcon90/image/upload/v1598914894/github_readme/email_sctosf.png)		**[cjcon90@pm.me](mailto:cjcon90@pm.me)**
-
-
-
-
-
-
-<!--
-**cjcon90/cjcon90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://gpvc.arturio.dev/cjcon90)  
