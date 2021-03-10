@@ -12,8 +12,6 @@ Skills: HTML / CSS / JS / Python / Flask / TailwindCSS / Sass
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I wrote my first 'Hello World' in April 2020 (and never looked back!) 
 
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cjcon90&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cjcon90)  
