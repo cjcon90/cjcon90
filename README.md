@@ -14,6 +14,4 @@ Skills: HTML / CSS / JS / Python / Flask / TailwindCSS / Sass
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cjcon90&show_icons=true&count_private=true&theme=tokyonight)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cjcon90&theme=react-dark)  
-
 ![Profile views](https://gpvc.arturio.dev/cjcon90)  
