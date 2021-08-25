@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ciaran
-![](https://res.cloudinary.com/cjcon90/image/upload/c_scale,w_670/v1617874131/github_readme/cjcon90_Logo.png)
+![](https://res.cloudinary.com/cjcon90/image/upload/c_scale,w_670/v1617874131/github_readme/cjcon90_logo.png)
 
 I am a full-stack developer (JavaScript/Python) with a background in child protection social work.
 
