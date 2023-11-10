@@ -1,11 +1,7 @@
-### Hi there 👋, my name is Ciaran
+A production engineer with a background in child protection social work, and a passion for coding and problem-solving. I'm driven by the opportunity to make a difference and have a positive impact, whether it was working in a people-focused role, or ensuring the smooth operation of critical infrastructure!
 
-I am a full-stack developer with a background in child protection social work.
+I learned to code while working full-time as a social worker, fell in love with it and eventually made the leap of switching careers. Now, with a strong foundation in Python and Linux programming, I bring a range of technical skills and experience to my work.
 
-- 🔭 I’m currently working as: Multiple large scale Python & Linux projects in my role as a Production Engineer at Meta 🐧 
-<!-- - 🌱 I’m currently learning: All things systems, infrastructure, container orchestration, scaling and taking a deep dive in to Linux 🐧 -->
-- 💬 Ask me about: My career switch from social worker to software engineer!
-- 📫 How to reach me: email at cjcon90@pm.me, or check out my page at https://cjcon90.dev
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I wrote my first 'Hello World' in April 2020 (and never looked back!)
+Since September 2021, I have worked with the OpenBMC team at Meta, where I have focused on automated testing and deployment of firmware at scale. I am always motivated by the opportunity to take on new challenges and expand my skill set, whether it's tackling complex deployment issues or exploring new technologies.
 
+Let's connect and see how we can build great things together :-)
